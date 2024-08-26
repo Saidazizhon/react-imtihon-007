@@ -1,0 +1,10 @@
+.home{
+    width: 100%;
+    height: calc(100vh - 80px);
+    background: #000;
+    text-align: center;
+    color: #fff;
+    display: grid;
+    place-items: center;
+    font-size: 4vw;
+}
